@@ -1,0 +1,19 @@
+{
+  "name": "weekly-reports",
+  "version": "1.0.0",
+  "description": "Generates pptx file based on input",
+  "main": "pptxgen.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pptx",
+    "reports"
+  ],
+  "author": "Harry McKillen",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^6.1.0",
+    "pptxgenjs": "^3.3.1"
+  }
+}

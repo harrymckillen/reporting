@@ -1,0 +1,47 @@
+{
+    "author": "<Author>",
+    "from": "<Date>", 
+    "to": "<Date>",
+    "ww": 0,
+    "thisweek": [
+        {
+            "project": "Sample Project", 
+            "progress": [
+                "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sagittis egestas elit eu porta. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque porta nunc scelerisque accumsan malesuada. Sed posuere tempus dui ut varius. Suspendisse dapibus dapibus elementum. Sed fermentum, dui quis e",
+                "Item 1",
+                "Item 2",
+                "Item 3"
+            ]
+        },
+        {
+            "project": "Sample Project",
+            "progress": [
+                "Item 0",
+                "Item 1",
+                "Item 2",
+                "Item 3"
+            ]
+        }
+    ],
+    
+    "nextweek": [
+        {
+            "project": "Sample Project",
+            "progress": [
+                "Item 4",
+                "Item 5",
+                "Item 6",
+                "Item 7"
+            ]
+        },
+        {
+            "project": "Sample Project",
+            "progress": [
+                "Item 8",
+                "Item 9",
+                "Item 10",
+                "Item 11"
+            ]
+        }
+    ]
+}
